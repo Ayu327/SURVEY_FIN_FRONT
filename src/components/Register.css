@@ -17,6 +17,7 @@
 
 .signup {
   position: relative;
+  text-align: center;
   left: 800px;
   bottom: 280px;
   width: 450px;
@@ -118,7 +119,7 @@ pre {
 /* .lineinp1 {
     /* display: block; */
 /* } */
-*/ .lineinp1 {
+ .lineinp1 {
   margin-left: 45px;
   display: flex;
 }
