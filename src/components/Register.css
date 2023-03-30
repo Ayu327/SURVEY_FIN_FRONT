@@ -67,7 +67,7 @@
   margin-right: 0px;
 }
 
-.btnsignup {
+/* .btnsignup {
   margin-top: 0px;
   margin-right: 140px;
   border-radius: 30px;
@@ -76,7 +76,13 @@
   background-color: rgb(6, 159, 210);
   color: white;
   cursor: pointer;
+  outline: none;
+
+
 }
+btnsignup:active {
+  border-style: outset;
+} */
 
 .updont {
   margin-bottom: 0px;

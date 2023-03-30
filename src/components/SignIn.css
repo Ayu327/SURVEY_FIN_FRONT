@@ -22,7 +22,7 @@
   bottom: 150px;
   width: 300px;
   height: 300px;
-  border: 1px solid rgb(171, 167, 167);
+   border: 1px solid rgb(171, 167, 167); 
   border-radius: 30px;
   background-color: aliceblue;
   text-align: center;
@@ -35,7 +35,7 @@
   height: 30px;
   background-color: #53a4f4;
   color: white;
-  cursor: pointer;
+   cursor: pointer; 
 }
 
 .inputBox1 {
